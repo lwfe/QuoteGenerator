@@ -52,7 +52,7 @@ export const QuoteCard = styled.div`
       margin-bottom: 12px;
       font-size: 24px;
       line-height: 32px;
-      text-align: justify;
+      text-align: center;
     }
   }
 
